@@ -13,21 +13,15 @@
     margin-bottom: 50px;
 }
 
-/* Sobre */
+.sobre_mim_text{
+   
+    font-size: 20px;
 
-
-#sobre{
-
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    background-color: #FFD700;
-    color: black;
 }
 
+#sobre
+{
+ margin-bottom: 10%;
+  
 
-body{
 
-	background-image: url(../img/arte7.jpeg);
-}
