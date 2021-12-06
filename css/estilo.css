@@ -35,7 +35,7 @@ h1 {
 }
 
 #sobre{
- margin-bottom: 20%;
+ margin-bottom: 5%;
 
 }
 
@@ -51,7 +51,11 @@ h1 {
     width: 70%;
     margin-left: 20%;
 }
+.img-thumbnail{
+    width: 80%;
+    margin-left: 10%;
 
+}
 footer {
     background-color: rgb(24, 23, 23);
     padding: 1%;
